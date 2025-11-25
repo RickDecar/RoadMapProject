@@ -1,4 +1,4 @@
-# se añaden las modificaciones siguientes sobre la version 02
+# se añaden las modificaciones siguientes sobre la version 02.
 #  -> se corta el nombre del programa por un guion "-" en los casos en los que se trata de una variable para tener el nombre "limpio"
 #  -> se genera la funcion guardar_diccionario2 llanada cuando se trata de un directorio para anexar los dict en uno solo
 #  -> en generar_grafo() se genera el archivo pdf antes del dot.render y se corrije el nombre del archivo en el dot.render corrigiendo el error de memoria que daba al tratar un directorio
